@@ -1,6 +1,6 @@
 # K-Nearest Neighbor
 
-K-Nearest Neighbor is a `supervised learning algorithm` which relies on the assumption that nearby points are similar. Therefore, once we define a `distance metric`, we define an integer `K` which represents the number of points that belong to the `neighborhood`. 
+K-Nearest Neighbor is a `supervised learning algorithm` which relies on the assumption that nearby points tend to be similar. Therefore, once we define a `distance metric`, we define an integer `K` which represents the number of points that belong to the `neighborhood`. 
 
 For `classification` problems, the final prediction will be given by the majority class in the neighborhood, whereas in `regression` problem we simply take the average between the observations. 
 
