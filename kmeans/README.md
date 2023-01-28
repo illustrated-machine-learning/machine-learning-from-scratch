@@ -1,6 +1,10 @@
 # KMeans
 
-`KMeans` is an unsupervised algorithm whose goal is to `partite` a dataset into a `fixed number of clusters`. It does this by `iteratively` assigning each data point to the cluster with the `closest mean` (centroid) and then `updating` the cluster centroid to the mean of all data points assigned to it. The algorithm `runs` until the centroids do not change after the update, or once it reaches the maximum number of iterations.
+`KMeans` is an unsupervised algorithm whose goal is to `partite` a dataset into a `fixed number of clusters`. 
+
+It does this by `iteratively` assigning each data point to the cluster with the `closest mean` (centroid) and then `updating` the cluster centroid to the mean of all data points assigned to it. 
+
+The algorithm `runs` until the centroids do not change after the update, or once it reaches the maximum number of iterations.
 
 
 |<center>[source](https://illustrated-machine-learning.github.io/)</center>|<center>[source](https://illustrated-machine-learning.github.io/)</center>|
