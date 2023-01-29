@@ -8,9 +8,10 @@ For `classification` problems, the final prediction will be given by the majorit
 |:---:|:---|
 | ![](./img1.png) | ![](./img2.png)|
 
-<br />
 
-The full implementation is available [here](./knn.py)!
+---
+
+📍 The full implementation is available [here](./knn.py)!
 
 --- 
 

@@ -16,9 +16,10 @@ The previous equation states that the probability of a hypothesis given some obs
 
 In the context of classification, the `hypothesis` is the class label, and the evidence is the `features` of the input data. This algorith makes a `naive` assumption that the features are independent.
 
-<br />
 
-The full implementation is available [here](./naive-bayes.py)!
+---
+
+📍 The full implementation is available [here](./naive-bayes.py)!
 
 --- 
 

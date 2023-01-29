@@ -11,9 +11,9 @@ The algorithm `runs` until the centroids do not change after the update, or once
 |:---:|:---|
 | ![](./img1.png) | ![](./img2.png)|
 
-<br />
+---
 
-The full implementation is available [here](./kmeans.py)!
+📍 The full implementation is available [here](./kmeans.py)!
 
 --- 
 
