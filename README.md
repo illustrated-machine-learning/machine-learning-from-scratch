@@ -23,5 +23,5 @@ To be done:
 * Logistic Regression
 * Linear Regression
 * Support Vector Machine
-* Machine Learning Perceptron
+* Multi-layer Perceptron
 
