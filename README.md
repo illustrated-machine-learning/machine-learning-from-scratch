@@ -17,7 +17,7 @@ For a theoretical and illustrated overview of these algorithms, please refer to 
 At the moment you can find:
 * [K-Means](kmeans/README.md)
 * [K-Nearest Neighbor](knn/README.md)
-* [Naive Bayes Classifier](naive-bayes/naive-bayes.py)
+* [Naive Bayes Classifier](naive-bayes/README.md)
 
 To be done:
 * Logistic Regression
