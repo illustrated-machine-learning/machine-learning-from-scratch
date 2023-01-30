@@ -18,10 +18,11 @@ At the moment you can find:
 * [K-Means](kmeans/)
 * [K-Nearest Neighbor](knn/)
 * [Naive Bayes Classifier](naive-bayes/)
+* [Logistic Regression](logistic-regression/)
+* [Linear Regression](linear-regression/)
 
 To be done:
-* Logistic Regression
-* Linear Regression
 * Support Vector Machine
 * Multi-layer Perceptron
+* Decision Tree
 
